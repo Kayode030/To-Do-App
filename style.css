@@ -18,8 +18,8 @@ body{
 }
 input[type="text"]{
     color: #fff;
-    border: 1px, solid, gray;
-    background-color: silver;
+    border: none;
+    background-color: #485563;
     max-width: 400px;
 }
 .todos li{
