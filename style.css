@@ -19,7 +19,7 @@ body{
 input[type="text"]{
     color: #fff;
     border: none;
-    background-color: #485563;
+    background-color: azure;
     max-width: 400px;
 }
 .todos li{
